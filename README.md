@@ -149,5 +149,5 @@ Kami tidak bertanggung jawab atas:
 ## 👤 AUTHOR
 
 ```
-TrxySec1337 | Offensive Security Research
+TrxySec1337 | Nocturnal Bytes
 ```
