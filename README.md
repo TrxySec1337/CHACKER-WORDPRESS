@@ -86,7 +86,7 @@ pip install requests
 ### 3. 🧪 MENJALANKAN SCRIPT
 
 ```bash
-python3 wp_logs_checker.py
+python AUTOCHACKER.py
 ```
 
 Lalu:
