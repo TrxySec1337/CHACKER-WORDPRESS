@@ -1,5 +1,5 @@
 
-# 🛠️ AUTO LOGS WORDPRESS CHECKER - TRXYSEC1337
+# 🛠️ AUTO LOGS WORDPRESS CHACKER - TRXYSEC1337
 
 **Versi:** `v1.0-stable`  
 **Rilis:** 07 Juli 2025  
